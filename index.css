@@ -3,3 +3,7 @@ div {
     height: 200px;
     background-color: red;
 }
+
+body {
+    background-color: black;
+}
